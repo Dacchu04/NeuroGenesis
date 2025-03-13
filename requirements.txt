@@ -1,0 +1,16 @@
+torch
+transformers
+langchain
+openai
+stable-baselines3
+deap
+gym
+numpy
+flask
+fastapi
+uvicorn
+
+
+
+👉 This file lists dependencies. Anyone can install them using:
+pip install -r requirements.txt
